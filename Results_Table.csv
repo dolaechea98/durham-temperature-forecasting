@@ -1,0 +1,4 @@
+﻿Model;RMSE;MAE;R2
+ARIMA (deseasoned);2.35;1.91;0.73
+Fourier + ARIMA;2.42;1.93;0.72
+Seasonal Naive;3.65;2.92;0.5
